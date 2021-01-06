@@ -1,0 +1,1 @@
+SELECT * FROM produkty where id_produktu ="5"

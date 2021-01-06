@@ -1,0 +1,1 @@
+INSERT INTO tabelka VALUES (null, NEW.id_produktu, NEW.id_sklepu)

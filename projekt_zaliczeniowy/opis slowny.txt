@@ -1,0 +1,2 @@
+Trasa transportowa
+Mój projekt pokazuje trasę od kraju pochodzenia aż do dostarczenia produktu do sklepu. Projekt przechowuje nazwy firm które importują produkty z innych krajów , po czym przeworzą je do kraju przeznaczenia żeby mogły trafić w nasze ręce po zakupie w sklepie. 
